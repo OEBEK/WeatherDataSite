@@ -1,0 +1,37 @@
+[
+    {
+        "Humidity": "19.56",
+        "Pressure": "1067.37",
+        "Altitude": "1394.73",
+        "Temperature": "1.56",
+        "time_stamp": "2023-12-20 12:00:11"
+    },
+    {
+        "Humidity": "15.75",
+        "Pressure": "1020.6",
+        "Altitude": "4128.24",
+        "Temperature": "6.45",
+        "time_stamp": "2023-12-20 12:00:41"
+    },
+    {
+        "Humidity": "42.45",
+        "Pressure": "1076.6",
+        "Altitude": "3301.31",
+        "Temperature": "-3.73",
+        "time_stamp": "2023-12-20 12:01:11"
+    },
+    {
+        "Humidity": "58.86",
+        "Pressure": "1015.67",
+        "Altitude": "1315.68",
+        "Temperature": "21.44",
+        "time_stamp": "2023-12-20 12:01:41"
+    },
+    {
+        "Humidity": "55.89",
+        "Pressure": "993.6",
+        "Altitude": "4440.55",
+        "Temperature": "18.27",
+        "time_stamp": "2023-12-20 12:02:11"
+    }
+]

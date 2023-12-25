@@ -1,0 +1,86 @@
+html {
+    --s: 50px;
+    --c: #191b22;
+    --_s: calc(2*var(--s)) calc(2*var(--s));
+    --_g: 35.36% 35.36% at;
+    --_c: #66464600 66%, #545f89 68% 70%, #0000 72%;
+    background:
+        radial-gradient(var(--_g) 100% 25%, var(--_c)) var(--s) var(--s) / var(--_s),
+        radial-gradient(var(--_g) 0 75%, var(--_c)) var(--s) var(--s) / var(--_s),
+        radial-gradient(var(--_g) 100% 25%, var(--_c)) 0 0 / var(--_s),
+        radial-gradient(var(--_g) 0 75%, var(--_c)) 0 0 / var(--_s),
+        repeating-conic-gradient(var(--c) 0 25%, #0000 0 50%) 0 0 / var(--_s),
+        radial-gradient(var(--_c)) 0 calc(var(--s)/2) / var(--s) var(--s) var(--c);
+    background-attachment: fixed;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.title-container {
+    color: white;
+    text-align: center;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+table {
+    width: 100%;
+    max-width: 800px;
+    /* Begrenze die Breite auf 800px für kleinere Bildschirme */
+    border-collapse: collapse;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0);
+    padding: ;
+}
+
+th,
+td {
+    padding: 15px;
+    background-color: rgba(255, 255, 255);
+    color: #050505;
+}
+
+th {
+    text-align: left;
+}
+
+thead th {
+    background-color: #5670e3;
+}
+
+tbody tr:hover {
+    background-color: rgba(255, 255, 255);
+}
+
+tbody td {
+    position: relative;
+}
+
+tbody td:hover:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -9999px;
+    bottom: -9999px;
+    background-color: rgba(255, 255, 255);
+    z-index: -1;
+}
+
+/* Media Queries für verschiedene Bildschirmgrößen */
+@media only screen and (max-width: 600px) {
+    table {
+        max-width: 100%;
+        /* Vollständige Breite für kleinere Bildschirme */
+    }
+}

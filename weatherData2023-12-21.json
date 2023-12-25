@@ -1,0 +1,632 @@
+[
+    {
+        "Humidity": "23.23",
+        "Pressure": "123.123",
+        "Altitude": "29",
+        "Temperature": "23",
+        "time_stamp": "2023-12-21 10:29:19"
+    },
+    {
+        "Humidity": "55.92",
+        "Pressure": "1021.74",
+        "Altitude": "3784.92",
+        "Temperature": "23.03",
+        "time_stamp": "2023-12-21 10:29:48"
+    },
+    {
+        "Humidity": "39.82",
+        "Pressure": "1081.84",
+        "Altitude": "3016.92",
+        "Temperature": "17.08",
+        "time_stamp": "2023-12-21 10:30:18"
+    },
+    {
+        "Humidity": "36.08",
+        "Pressure": "1024.86",
+        "Altitude": "846.48",
+        "Temperature": "10.25",
+        "time_stamp": "2023-12-21 10:30:48"
+    },
+    {
+        "Humidity": "78.2",
+        "Pressure": "1047.51",
+        "Altitude": "4787.2",
+        "Temperature": "25.57",
+        "time_stamp": "2023-12-21 10:31:18"
+    },
+    {
+        "Humidity": "91.96",
+        "Pressure": "981.06",
+        "Altitude": "1407.57",
+        "Temperature": "-4.36",
+        "time_stamp": "2023-12-21 10:31:48"
+    },
+    {
+        "Humidity": "43.25",
+        "Pressure": "1034.01",
+        "Altitude": "4186.58",
+        "Temperature": "18.68",
+        "time_stamp": "2023-12-21 10:32:18"
+    },
+    {
+        "Humidity": "55.12",
+        "Pressure": "1040.56",
+        "Altitude": "2177.14",
+        "Temperature": "26.94",
+        "time_stamp": "2023-12-21 10:32:48"
+    },
+    {
+        "Humidity": "72.41",
+        "Pressure": "900.45",
+        "Altitude": "4373.93",
+        "Temperature": "-2.92",
+        "time_stamp": "2023-12-21 10:33:18"
+    },
+    {
+        "Humidity": "44.61",
+        "Pressure": "1005.71",
+        "Altitude": "882.84",
+        "Temperature": "4.72",
+        "time_stamp": "2023-12-21 10:33:48"
+    },
+    {
+        "Humidity": "62.37",
+        "Pressure": "1089.62",
+        "Altitude": "3784.07",
+        "Temperature": "10.82",
+        "time_stamp": "2023-12-21 10:34:18"
+    },
+    {
+        "Humidity": "87.07",
+        "Pressure": "1086.99",
+        "Altitude": "2055.95",
+        "Temperature": "27.35",
+        "time_stamp": "2023-12-21 10:34:48"
+    },
+    {
+        "Humidity": "54.44",
+        "Pressure": "947.4",
+        "Altitude": "2901.22",
+        "Temperature": "-0.41",
+        "time_stamp": "2023-12-21 10:35:18"
+    },
+    {
+        "Humidity": "92.7",
+        "Pressure": "932.43",
+        "Altitude": "1509.36",
+        "Temperature": "27.47",
+        "time_stamp": "2023-12-21 10:35:48"
+    },
+    {
+        "Humidity": "38.02",
+        "Pressure": "1032.32",
+        "Altitude": "3156.72",
+        "Temperature": "1.43",
+        "time_stamp": "2023-12-21 10:36:18"
+    },
+    {
+        "Humidity": "58.33",
+        "Pressure": "968.14",
+        "Altitude": "2984.53",
+        "Temperature": "5.89",
+        "time_stamp": "2023-12-21 10:36:48"
+    },
+    {
+        "Humidity": "83.76",
+        "Pressure": "1050.26",
+        "Altitude": "4463.41",
+        "Temperature": "23.15",
+        "time_stamp": "2023-12-21 10:37:18"
+    },
+    {
+        "Humidity": "60.29",
+        "Pressure": "1027.76",
+        "Altitude": "955.35",
+        "Temperature": "27.81",
+        "time_stamp": "2023-12-21 10:37:48"
+    },
+    {
+        "Humidity": "98.89",
+        "Pressure": "1031.16",
+        "Altitude": "4971.21",
+        "Temperature": "-8.68",
+        "time_stamp": "2023-12-21 10:38:18"
+    },
+    {
+        "Humidity": "77.66",
+        "Pressure": "980.98",
+        "Altitude": "3744.09",
+        "Temperature": "-9.8",
+        "time_stamp": "2023-12-21 10:38:48"
+    },
+    {
+        "Humidity": "62.38",
+        "Pressure": "977.21",
+        "Altitude": "907.67",
+        "Temperature": "15.72",
+        "time_stamp": "2023-12-21 10:39:18"
+    },
+    {
+        "Humidity": "77.48",
+        "Pressure": "1005.76",
+        "Altitude": "1351.53",
+        "Temperature": "4.41",
+        "time_stamp": "2023-12-21 10:39:48"
+    },
+    {
+        "Humidity": "59.95",
+        "Pressure": "1031.9",
+        "Altitude": "3996.93",
+        "Temperature": "22.24",
+        "time_stamp": "2023-12-21 10:40:18"
+    },
+    {
+        "Humidity": "25.16",
+        "Pressure": "928.96",
+        "Altitude": "4933.16",
+        "Temperature": "-6.79",
+        "time_stamp": "2023-12-21 10:40:48"
+    },
+    {
+        "Humidity": "57.2",
+        "Pressure": "1068.24",
+        "Altitude": "2171.23",
+        "Temperature": "-6.35",
+        "time_stamp": "2023-12-21 10:41:18"
+    },
+    {
+        "Humidity": "35.67",
+        "Pressure": "921.39",
+        "Altitude": "2595.43",
+        "Temperature": "12.75",
+        "time_stamp": "2023-12-21 10:41:48"
+    },
+    {
+        "Humidity": "13.7",
+        "Pressure": "1031.31",
+        "Altitude": "795.13",
+        "Temperature": "-3.05",
+        "time_stamp": "2023-12-21 10:42:18"
+    },
+    {
+        "Humidity": "24.39",
+        "Pressure": "944.27",
+        "Altitude": "193.33",
+        "Temperature": "18.29",
+        "time_stamp": "2023-12-21 10:42:48"
+    },
+    {
+        "Humidity": "13.63",
+        "Pressure": "1055.35",
+        "Altitude": "3340.56",
+        "Temperature": "-6.26",
+        "time_stamp": "2023-12-21 10:43:18"
+    },
+    {
+        "Humidity": "3.61",
+        "Pressure": "1058.8",
+        "Altitude": "3332.31",
+        "Temperature": "19.55",
+        "time_stamp": "2023-12-21 10:43:48"
+    },
+    {
+        "Humidity": "19.43",
+        "Pressure": "942.18",
+        "Altitude": "4406.17",
+        "Temperature": "5.17",
+        "time_stamp": "2023-12-21 10:44:18"
+    },
+    {
+        "Humidity": "11.95",
+        "Pressure": "1082.66",
+        "Altitude": "3770.08",
+        "Temperature": "-7.1",
+        "time_stamp": "2023-12-21 10:44:48"
+    },
+    {
+        "Humidity": "98.57",
+        "Pressure": "1087.34",
+        "Altitude": "1678.44",
+        "Temperature": "4.45",
+        "time_stamp": "2023-12-21 10:45:39"
+    },
+    {
+        "Humidity": "19.47",
+        "Pressure": "914.9",
+        "Altitude": "161.68",
+        "Temperature": "-3.47",
+        "time_stamp": "2023-12-21 10:45:48"
+    },
+    {
+        "Humidity": "57.33",
+        "Pressure": "992.12",
+        "Altitude": "1751.29",
+        "Temperature": "3.45",
+        "time_stamp": "2023-12-21 10:46:18"
+    },
+    {
+        "Humidity": "91.99",
+        "Pressure": "977.25",
+        "Altitude": "4523.1",
+        "Temperature": "23.82",
+        "time_stamp": "2023-12-21 10:46:48"
+    },
+    {
+        "Humidity": "91.79",
+        "Pressure": "1079.85",
+        "Altitude": "3174.74",
+        "Temperature": "1.55",
+        "time_stamp": "2023-12-21 10:47:18"
+    },
+    {
+        "Humidity": "36.88",
+        "Pressure": "957.45",
+        "Altitude": "4600.14",
+        "Temperature": "9",
+        "time_stamp": "2023-12-21 10:47:48"
+    },
+    {
+        "Humidity": "21.15",
+        "Pressure": "910.89",
+        "Altitude": "185.73",
+        "Temperature": "13.36",
+        "time_stamp": "2023-12-21 10:48:18"
+    },
+    {
+        "Humidity": "85.79",
+        "Pressure": "908.79",
+        "Altitude": "1218.9",
+        "Temperature": "-1.38",
+        "time_stamp": "2023-12-21 10:48:48"
+    },
+    {
+        "Humidity": "53.51",
+        "Pressure": "1045.11",
+        "Altitude": "4237.27",
+        "Temperature": "20.38",
+        "time_stamp": "2023-12-21 10:49:18"
+    },
+    {
+        "Humidity": "65.62",
+        "Pressure": "954.12",
+        "Altitude": "2681.16",
+        "Temperature": "4.49",
+        "time_stamp": "2023-12-21 10:49:48"
+    },
+    {
+        "Humidity": "15.49",
+        "Pressure": "1017.31",
+        "Altitude": "1411.66",
+        "Temperature": "-1.45",
+        "time_stamp": "2023-12-21 10:50:18"
+    },
+    {
+        "Humidity": "70.6",
+        "Pressure": "917.15",
+        "Altitude": "584.78",
+        "Temperature": "-4.54",
+        "time_stamp": "2023-12-21 10:50:48"
+    },
+    {
+        "Humidity": "52.83",
+        "Pressure": "977.16",
+        "Altitude": "285.21",
+        "Temperature": "3.65",
+        "time_stamp": "2023-12-21 10:51:18"
+    },
+    {
+        "Humidity": "54.49",
+        "Pressure": "942.09",
+        "Altitude": "2677.96",
+        "Temperature": "22.24",
+        "time_stamp": "2023-12-21 10:51:48"
+    },
+    {
+        "Humidity": "84.02",
+        "Pressure": "979.18",
+        "Altitude": "857.21",
+        "Temperature": "14.48",
+        "time_stamp": "2023-12-21 10:52:18"
+    },
+    {
+        "Humidity": "7.3",
+        "Pressure": "905.4",
+        "Altitude": "848.33",
+        "Temperature": "23.68",
+        "time_stamp": "2023-12-21 10:52:48"
+    },
+    {
+        "Humidity": "51.92",
+        "Pressure": "1077.84",
+        "Altitude": "1940.5",
+        "Temperature": "1.15",
+        "time_stamp": "2023-12-21 10:53:18"
+    },
+    {
+        "Humidity": "6.51",
+        "Pressure": "961.59",
+        "Altitude": "2176.09",
+        "Temperature": "8.19",
+        "time_stamp": "2023-12-21 10:53:48"
+    },
+    {
+        "Humidity": "89.98",
+        "Pressure": "990.92",
+        "Altitude": "4575.58",
+        "Temperature": "11.96",
+        "time_stamp": "2023-12-21 10:54:18"
+    },
+    {
+        "Humidity": "37.45",
+        "Pressure": "1035.18",
+        "Altitude": "121.95",
+        "Temperature": "25.1",
+        "time_stamp": "2023-12-21 10:54:48"
+    },
+    {
+        "Humidity": "37.4",
+        "Pressure": "1010.22",
+        "Altitude": "4070.26",
+        "Temperature": "20.26",
+        "time_stamp": "2023-12-21 10:55:18"
+    },
+    {
+        "Humidity": "34.45",
+        "Pressure": "979.22",
+        "Altitude": "3812.13",
+        "Temperature": "9.66",
+        "time_stamp": "2023-12-21 10:55:48"
+    },
+    {
+        "Humidity": "59.23",
+        "Pressure": "935.77",
+        "Altitude": "470.03",
+        "Temperature": "9.61",
+        "time_stamp": "2023-12-21 10:56:18"
+    },
+    {
+        "Humidity": "60.53",
+        "Pressure": "1065.7",
+        "Altitude": "216.34",
+        "Temperature": "19.13",
+        "time_stamp": "2023-12-21 10:56:48"
+    },
+    {
+        "Humidity": "94.38",
+        "Pressure": "1038.77",
+        "Altitude": "3407.21",
+        "Temperature": "16.54",
+        "time_stamp": "2023-12-21 10:57:18"
+    },
+    {
+        "Humidity": "94.62",
+        "Pressure": "935.86",
+        "Altitude": "2549.56",
+        "Temperature": "10.8",
+        "time_stamp": "2023-12-21 10:57:48"
+    },
+    {
+        "Humidity": "43.43",
+        "Pressure": "1071.28",
+        "Altitude": "4745.92",
+        "Temperature": "5.16",
+        "time_stamp": "2023-12-21 10:58:18"
+    },
+    {
+        "Humidity": "73.61",
+        "Pressure": "971.59",
+        "Altitude": "1650.1",
+        "Temperature": "10.11",
+        "time_stamp": "2023-12-21 10:58:48"
+    },
+    {
+        "Humidity": "89.04",
+        "Pressure": "1000.33",
+        "Altitude": "1937.65",
+        "Temperature": "12.18",
+        "time_stamp": "2023-12-21 10:59:18"
+    },
+    {
+        "Humidity": "99.93",
+        "Pressure": "903.7",
+        "Altitude": "2345.33",
+        "Temperature": "-5.02",
+        "time_stamp": "2023-12-21 10:59:48"
+    },
+    {
+        "Humidity": "50.43",
+        "Pressure": "1078.56",
+        "Altitude": "2245.02",
+        "Temperature": "16.48",
+        "time_stamp": "2023-12-21 11:00:18"
+    },
+    {
+        "Humidity": "21.85",
+        "Pressure": "1082.39",
+        "Altitude": "233.98",
+        "Temperature": "-7",
+        "time_stamp": "2023-12-21 11:00:48"
+    },
+    {
+        "Humidity": "69.33",
+        "Pressure": "1066.72",
+        "Altitude": "1110.22",
+        "Temperature": "21.24",
+        "time_stamp": "2023-12-21 11:01:18"
+    },
+    {
+        "Humidity": "7.13",
+        "Pressure": "1040.76",
+        "Altitude": "2505.44",
+        "Temperature": "28.95",
+        "time_stamp": "2023-12-21 11:01:48"
+    },
+    {
+        "Humidity": "94.18",
+        "Pressure": "1075.77",
+        "Altitude": "4159.88",
+        "Temperature": "4.8",
+        "time_stamp": "2023-12-21 11:02:18"
+    },
+    {
+        "Humidity": "55.27",
+        "Pressure": "993.51",
+        "Altitude": "1197.63",
+        "Temperature": "24.55",
+        "time_stamp": "2023-12-21 11:02:48"
+    },
+    {
+        "Humidity": "77.35",
+        "Pressure": "1076.07",
+        "Altitude": "4257.1",
+        "Temperature": "-2.38",
+        "time_stamp": "2023-12-21 11:03:18"
+    },
+    {
+        "Humidity": "12.22",
+        "Pressure": "1018.64",
+        "Altitude": "1177.77",
+        "Temperature": "14.03",
+        "time_stamp": "2023-12-21 11:03:48"
+    },
+    {
+        "Humidity": "69.1",
+        "Pressure": "1061.06",
+        "Altitude": "3484.54",
+        "Temperature": "-4.48",
+        "time_stamp": "2023-12-21 11:04:18"
+    },
+    {
+        "Humidity": "67.89",
+        "Pressure": "1083.39",
+        "Altitude": "4074.75",
+        "Temperature": "29.32",
+        "time_stamp": "2023-12-21 11:04:48"
+    },
+    {
+        "Humidity": "15.81",
+        "Pressure": "1086.19",
+        "Altitude": "2643.7",
+        "Temperature": "21.82",
+        "time_stamp": "2023-12-21 11:05:18"
+    },
+    {
+        "Humidity": "48.84",
+        "Pressure": "940.94",
+        "Altitude": "540.11",
+        "Temperature": "26.49",
+        "time_stamp": "2023-12-21 11:05:48"
+    },
+    {
+        "Humidity": "50.8",
+        "Pressure": "1083.67",
+        "Altitude": "3480.94",
+        "Temperature": "-8.19",
+        "time_stamp": "2023-12-21 11:06:18"
+    },
+    {
+        "Humidity": "77.25",
+        "Pressure": "931.35",
+        "Altitude": "4019.08",
+        "Temperature": "16.05",
+        "time_stamp": "2023-12-21 11:06:48"
+    },
+    {
+        "Humidity": "43.17",
+        "Pressure": "931.16",
+        "Altitude": "4392.9",
+        "Temperature": "29.69",
+        "time_stamp": "2023-12-21 11:07:18"
+    },
+    {
+        "Humidity": "20.59",
+        "Pressure": "987.71",
+        "Altitude": "3429.19",
+        "Temperature": "-8.18",
+        "time_stamp": "2023-12-21 11:07:48"
+    },
+    {
+        "Humidity": "65.78",
+        "Pressure": "1085.12",
+        "Altitude": "2795.58",
+        "Temperature": "24.3",
+        "time_stamp": "2023-12-21 11:08:18"
+    },
+    {
+        "Humidity": "80.01",
+        "Pressure": "918.74",
+        "Altitude": "1288.8",
+        "Temperature": "12.79",
+        "time_stamp": "2023-12-21 11:08:48"
+    },
+    {
+        "Humidity": "23.19",
+        "Pressure": "913.75",
+        "Altitude": "926.88",
+        "Temperature": "-8.15",
+        "time_stamp": "2023-12-21 11:09:18"
+    },
+    {
+        "Humidity": "40.58",
+        "Pressure": "975.1",
+        "Altitude": "2371.5",
+        "Temperature": "5.44",
+        "time_stamp": "2023-12-21 11:09:48"
+    },
+    {
+        "Humidity": "3.15",
+        "Pressure": "1060.24",
+        "Altitude": "4061.82",
+        "Temperature": "8.2",
+        "time_stamp": "2023-12-21 11:10:18"
+    },
+    {
+        "Humidity": "52.11",
+        "Pressure": "1013.2",
+        "Altitude": "3065.9",
+        "Temperature": "10.82",
+        "time_stamp": "2023-12-21 11:10:48"
+    },
+    {
+        "Humidity": "54.85",
+        "Pressure": "1068.98",
+        "Altitude": "2778.05",
+        "Temperature": "6.69",
+        "time_stamp": "2023-12-21 11:11:18"
+    },
+    {
+        "Humidity": "18.66",
+        "Pressure": "1026.6",
+        "Altitude": "181.15",
+        "Temperature": "4.68",
+        "time_stamp": "2023-12-21 11:11:48"
+    },
+    {
+        "Humidity": "18.97",
+        "Pressure": "935.73",
+        "Altitude": "4247.5",
+        "Temperature": "-2.78",
+        "time_stamp": "2023-12-21 11:12:18"
+    },
+    {
+        "Humidity": "25.17",
+        "Pressure": "1013.08",
+        "Altitude": "3119.97",
+        "Temperature": "21.3",
+        "time_stamp": "2023-12-21 11:12:48"
+    },
+    {
+        "Humidity": "79.13",
+        "Pressure": "945.69",
+        "Altitude": "729.8",
+        "Temperature": "2.8",
+        "time_stamp": "2023-12-21 11:13:18"
+    },
+    {
+        "Humidity": "84.35",
+        "Pressure": "926.14",
+        "Altitude": "4328.67",
+        "Temperature": "18.1",
+        "time_stamp": "2023-12-21 11:13:48"
+    }
+]
